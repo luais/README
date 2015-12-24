@@ -8,7 +8,7 @@
 - 手机：（+86）186 0165 0178 
 - Email：luais@live.com 
 - QQ/微信号：631077292
-- 个人博客：[luais.github.io][2]
+- 个人博客：[luais.github.io]
 
 ------
 ## iOS开发相关经历	
@@ -50,4 +50,4 @@
 ## 致谢
 非常感谢您抽出宝贵时间阅读到最后，期待能有机会和您共事。
 [1]:https://itunes.apple.com/cn/app/a-li-yao/id1054243685?mt=8
-[2]:luais.github.io
+
