@@ -5,7 +5,7 @@
 ####上海
 ---
 # 联系方式
-- 手机：（+86）178 9880 6110 
+- 手机：（+86）136 6160 0329 
 - Email：luais@live.com 
 - QQ/微信号：631077292
 - 个人博客：[luais.github.io](https://luais.github.io)
@@ -44,6 +44,8 @@
 
 * 百思不得姐<br>
 软件实现了看视频，图片，段子等功能，项目中运用scrollView和tableView相结合，可上下或左右滑动查看内容切换选项卡，在开发过程中学习了AVFoundation框架和MediaPlayer的使用，数据来自百思不得姐API接口
+
+
 ------
 
 ## 专业技能	
