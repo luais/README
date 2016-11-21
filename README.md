@@ -45,6 +45,8 @@
 * 百思不得姐<br>
 软件实现了看视频，图片，段子等功能，项目中运用scrollView和tableView相结合，可上下或左右滑动查看内容切换选项卡，在开发过程中学习了AVFoundation框架和MediaPlayer的使用，数据来自百思不得姐API接口
 
+* 最美韩风<br>
+学习iOS开发初期仿写的女装应用，项目中主要学习collection View的使用，项目里大部分界面都是是用collection View进行UI布局，并且学习AFNetworking，SDWebImage，MJRefresh等一些常用第三方库的使用。
 
 ------
 
